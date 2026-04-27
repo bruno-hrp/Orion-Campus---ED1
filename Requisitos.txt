@@ -1,6 +1,4 @@
-    Requisitos Funcionais (RF)
-
-O sistema deve:
+ Requisitos Funcionais (RF)
  Cadastro e controle
 RF01: Cadastrar drones
 RF02: Cadastrar operadores
@@ -29,7 +27,9 @@ RF18: Exibir missões pendentes
 RF19: Exibir atividades por drone
 RF20: Exibir atividades por operador
  
+
  Requisitos Não Funcionais (RNF)
+
 RNF01: Implementação em linguagem C
 RNF02: Interface textual (terminal)
 RNF03: Sem uso de banco de dados
@@ -38,6 +38,7 @@ RNF05: Código modular e organizado
 RNF06: Baixo consumo de memória
 RNF07: Resposta rápida (tempo real básico)
  
+
  Regras de Negócio (RN)
 
 RN01: Missão só inicia se houver drone disponível
